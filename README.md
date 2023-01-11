@@ -1,3 +1,6 @@
 # Logist_regression_example
-用於人工智慧班2022產業新尖兵的Logistic Regression範例
+用於人工智慧班2022產業新尖兵的Logistic Regression 電信業流失預測的範例
+
 如要使用請先執行 pip -r requirements.txt 安裝python套件
+
+之後打開機器學習預測「電信業」顧客流失率_Logistic.ipynb逐段執行
